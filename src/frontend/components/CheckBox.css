@@ -1,0 +1,35 @@
+.custom-checkbox {
+  display: inline-flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.custom-checkbox-input {
+  display: none;
+}
+
+.custom-checkbox-box {
+  width: 20px;
+  height: 20px;
+  margin-bottom: 10px;
+  border: 2px solid black;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background-color 0.2s;
+  position: relative;
+}
+
+.custom-checkbox-icon {
+  fill: none;
+  stroke: white;
+  stroke-width: 2px;
+  position: absolute;
+  width: 16px;
+  height: 16px;
+}
+
+.custom-checkbox-input:checked + .custom-checkbox-box {
+  background-color: black;
+}

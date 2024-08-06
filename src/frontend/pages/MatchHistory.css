@@ -1,0 +1,21 @@
+.custom-pagination .ant-pagination-jump-prev .ant-pagination-item-container::after,
+.custom-pagination .ant-pagination-jump-next .ant-pagination-item-container::after,
+.custom-pagination
+  .ant-pagination-jump-prev
+  .ant-pagination-item-container
+  .ant-pagination-item-ellipsis,
+.custom-pagination
+  .ant-pagination-jump-next
+  .ant-pagination-item-container
+  .ant-pagination-item-ellipsis {
+  color: white !important; /* Ellipsis color */
+} /* MatchHistory.css */
+
+.custom-pagination .ant-pagination-item-active {
+  background-color: #fe4553 !important; /* Active page background color */
+  border-color: #fe4553 !important; /* Active page border color */
+}
+
+.custom-pagination .ant-pagination-item-active a {
+  color: white !important; /* Active page text color */
+}
