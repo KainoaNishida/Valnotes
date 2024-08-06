@@ -60,7 +60,7 @@ const Sidebar = () => {
           </Link>
         ))}
       </Box>
-      {location.pathname == '/stats' ? (
+      {location.pathname === '/stats' ? (
       <Box  display='flex' className='valfont' position='absolute' alignItems='flex-end'
   justifyContent='flex-end' width='59vh' ml='20vh' bg='transparent' top='25%' clipPath={'polygon(0 0, 100% 0, 77% 100%, 0 100%)'}>
         <VStack spacing="5rem" color="white">
