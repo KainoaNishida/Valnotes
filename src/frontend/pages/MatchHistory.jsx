@@ -65,14 +65,14 @@ const MatchHistory = () => {
               itemRender={(page, type, originalElement) => {
                 if (type === 'prev') {
                   return (
-                    <a className='valfont' style={{ color: '#FE4553', marginRight: '3vh' }}>
+                    <a href='hi' className='valfont' style={{ color: '#FE4553', marginRight: '3vh' }}>
                       Previous
                     </a>
                   )
                 }
                 if (type === 'next') {
                   return (
-                    <a className='valfont' style={{ color: '#FE4553', marginLeft: '3vh' }}>
+                    <a href='hi' className='valfont' style={{ color: '#FE4553', marginLeft: '3vh' }}>
                       Next
                     </a>
                   )
