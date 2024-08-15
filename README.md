@@ -57,10 +57,19 @@ Valnotes is a web application that allows users to log and annotate their Valora
 ## Screenshots
 
 ![Screenshot 1](photos/photo1.png)
+![Screenshot 2](photos/photo1.png)
+![Screenshot 3](photos/photo1.png)
+
+
 
 ## Figma Designs
 
-[Figma Link](https://www.figma.com/design/lMWOd0VHeMCxDB6uRjU796/Material-UI-for-Figma-(and-MUI-X)-(Community)?node-id=7603-15383&t=pe8LOI0r0W8wnWxo-1)]
+[Figma Link](https://www.figma.com/design/lMWOd0VHeMCxDB6uRjU796/Material-UI-for-Figma-(and-MUI-X)-(Community)?node-id=7603-15383&t=pe8LOI0r0W8wnWxo-1)
+
+![Screenshot 4](photos/photo4.png)
+![Screenshot 5](photos/photo5.png)
+![Screenshot 6](photos/photo6.png)
+![Screenshot 7](photos/photo7.png)
 
 
 ## Contributing
