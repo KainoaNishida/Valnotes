@@ -13,7 +13,7 @@ Valnotes is a web application that allows users to log and annotate their Valora
 ## Tech Stack
 
 - Frontend: React
-- Backend: [Your backend technology, e.g. Node.js, Python, etc.]
+- Backend: Node.js
 - Database: PostgreSQL
 - Authentication: Riot Games API
 
@@ -52,7 +52,9 @@ Valnotes is a web application that allows users to log and annotate their Valora
 
 ## Usage
 
-[Provide brief instructions on how to use the app, e.g. how to log in, record a video, take notes, etc.]
+1. Sign In using your Riot Account
+2. It will retrieve all of your match history, but initially each game will be empty. You must upload personally recorded VODs in the Upload page, and then record any notes while you review your VOD.
+
 
 ## Screenshots
 
@@ -72,19 +74,7 @@ Valnotes is a web application that allows users to log and annotate their Valora
 ![Screenshot 7](photos/photo7.png)
 
 
-## Contributing
-
-[If you're open to contributions, provide guidelines here]
-
-## License
-
-[Specify the license under which your project is released]
-
-## Contact
-
-[Your contact information or links to your professional profiles]
 
 ## Acknowledgments
 
 - Riot Games for providing the API
-- [Any other acknowledgments you'd like to include]
