@@ -57,8 +57,8 @@ Valnotes is a web application that allows users to log and annotate their Valora
 ## Screenshots
 
 ![Screenshot 1](photos/photo1.png)
-![Screenshot 2](photos/photo1.png)
-![Screenshot 3](photos/photo1.png)
+![Screenshot 2](photos/photo2.png)
+![Screenshot 3](photos/photo3.png)
 
 
 
